@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-5t2wes.kujang138bos.online/sitemap.xml
